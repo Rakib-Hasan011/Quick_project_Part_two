@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border-bottom: 1px solid;
+
+    color: #afadad;
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+padding: 20px 0;
+
+overflow: hidden;
+
+
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+width: 35%;
+}
+nav{
+
+width: 40%;
+
+float: right;
+
+
+}
+nav ul{
+
+list-style: none;
+
+
+}
+nav ul li{
+    
+    
+float: left;
+    
+margin-left: 19px;
+    
+text-transform: capitalize;
+    
+font-size: 20px;
+    
+color: #757373;
+}
+.content_section{
+
+width: 60%;
+
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content_section h1{
+    
+font-size: 50px;
+    
+text-transform: capitalize;
+    
+color: #0A1A31;
+    
+margin-top: 20px;
+}
+.content_section h2{
+    
+color: #018AFE;
+    
+font-size: 50px;
+    
+text-transform: capitalize;
+    
+margin: 15px 0px;
+}
+.content_section p{
+    
+color: #ABACAD;
+    
+margin: 20px 0;
+}
+.content_section img{
+    width: 60%;
+}
+.second_content{
+    overflow: hidden;
+
+    margin: 15px 0;
+}
+.left_content{
+
+width: 30%;
+
+float: left;
+
+margin-left: 280px;
+
+text-align: end;
+}
+.left_content h1{
+    color: #D36179;
+}
+.left_content p{
+
+color: #59595a;
+}
+
+.success_content{
+
+width: 30%;
+
+float: right;
+
+margin-right: 239px;
+
+color: #1F2C53;
+}
+.features{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 20px;
+}
+.feature_one{
+
+width: 25%;
+
+float: left;
+
+text-align: center;
+
+background-color: #FEEBEF;
+
+padding: 50px 30px;
+}
+.feature_one img, .feature_tow img, .feature_three img{
+
+width: 100%;
+}
+.feature_one h2, .feature_tow h2, .feature_three h2{
+
+text-align: left;
+
+margin-bottom: 15px;
+
+color: #433F57;
+}
+.feature_one p, .feature_tow p, .feature_three p{
+
+text-align: left;
+
+color: #433F57;
+}
+
+.feature_tow{
+
+width: 25%;
+
+float: left;
+
+margin-left: 5%;
+
+padding: 50px 30px;
+
+background-color: #EAF9F4;
+}
+.feature_two img{
+
+}
+.feature_two h2{
+
+}
+.feature_two p{
+    
+}
+.feature_three{
+
+width: 25%;
+
+float: right;
+
+padding: 50px 30px;
+
+background-color: #FFF8E8;
+}
+.feature_three img{
+
+}
+.feature_three h2{
+
+}
+.feature_three p{
+    
+}
+footer{
+
+background-color: #008AFF;
+
+text-align: center;
+
+padding: 30px 0;
+
+margin-top: 25px;
+}
+footer p{
+    
+color: wheat;
+    
+font-size: 18px;
+}
+footer p span{
+    
+color: #fff;
+    
+font-size: 20px;
+    
+font-weight: 700;
+    
+text-transform: uppercase;
+    
+letter-spacing: 3px;
+}
